@@ -1,0 +1,6 @@
+INDEX VERSION 1.134+C:\Users\zlyda\OneDrive\Pulpit\uni\pio_git_rhymers\.metadata\.plugins\org.eclipse.jdt.core
+526146698.index
+3062531810.index
+1865797976.index
+2380807412.index
+4207992234.index
