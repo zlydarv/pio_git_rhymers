@@ -1,0 +1,18 @@
+# Ignorowanie plików wygenerowanych przez IDE
+.idea/
+.vscode/
+
+# Ignorowanie plików wykonywalnych
+*.exe
+*.dll
+
+# Ignorowanie plików tymczasowych
+*.tmp
+*.bak
+
+# Ignorowanie plików konfiguracyjnych, które mogą zawierać hasła
+*.config
+
+# Ignorowanie plików logów
+*.log
+/target/
